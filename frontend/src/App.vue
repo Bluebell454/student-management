@@ -100,7 +100,7 @@ onMounted(loadStudents)
 
 <template>
   <div class="container">
-    <h1>Student Management System</h1>
+    <h1>Student Management System (Practice)</h1>
 
     <!-- Add / Edit form -->
     <form @submit.prevent="saveStudent" class="form">
